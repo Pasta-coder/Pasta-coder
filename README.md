@@ -75,10 +75,10 @@ const jayant = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jayant-creator">
+  <a href="https://github.com/Pasta-coder/codegeass">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayant-creator&repo=your-best-repo&theme=tokyonight" />
   </a>
-  <a href="https://github.com/jayant-creator">
+  <a href="https://github.com/Pasta-coder/codegeass">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayant-creator&repo=another-cool-repo&theme=tokyonight" />
   </a>
 </div>
