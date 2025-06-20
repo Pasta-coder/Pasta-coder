@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
   <br>
-  <em>Currently contributing to a startup & leveling up every single day.</em>
+  <em>Currently contributing to PaceDream.com & leveling up every single day.</em>
 </div>
 
 ---
@@ -25,9 +25,7 @@ const jayant = {
   askMeAbout: [
     "Next.js", "React", "TypeScript", "Python", 
     "AI/ML", "Futuristic UI/UX", "Startup Life"
-  ],
-  
-  funFact: "I believe the best code is the one that feels like magic ✨"
+  ]
 };
 ```
 
