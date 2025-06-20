@@ -72,30 +72,6 @@ const jayant = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasta-coder&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Pasta-coder/financial_dasboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasta-coder&repo=financial_dasboard&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Pasta-coder/college_placemnt_platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasta-coder&repo=college_placemnt_platform&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Pasta-coder/codegeass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasta-coder&repo=codegeass&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Pasta-coder/game_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasta-coder&repo=game_2&theme=tokyonight" />
-  </a>
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasta-coder&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🎯 Current Goals
 
@@ -111,7 +87,6 @@ const jayant = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-chauhan-991499260)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pasta-coder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0001jayant@gmail.com)
 [![Academic Email](https://img.shields.io/badge/Academic_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jayant.chauhan.ug24@nsut.ac.in)
 
@@ -120,9 +95,6 @@ const jayant = {
 ---
 
 <div align="center">
-  
-### 🎭 Random Dev Meme
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Pasta-coder/Pasta-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
