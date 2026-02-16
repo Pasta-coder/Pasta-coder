@@ -42,10 +42,6 @@ Contributor to the GNU Octave scientific programming language.
 * Developed AI-driven tools designed to monitor fiscal oversight and enhance citizen cyber safety.
 * Drafted the technical architecture and proposal directly for government stakeholders.
 
-### 🔹 Agri-Trace Odisha (SIH 2025)
-*A blockchain-based agricultural supply chain system.*
-* Designed the repository and project architecture to solve real-world traceability issues in the agricultural sector.
-* Implemented secure tracking mechanisms to ensure transparency from farm to table. 
 
 ---
 
@@ -62,10 +58,9 @@ Netaji Subhas University of Technology (NSUT), Delhi
 ---
 
 ## 📫 Let's Connect
-* **GitHub:** *[Add your link]*
-* **LinkedIn:** *[Add your link]*
-* **Email:** *[Add your email]*
-* **Portfolio:** *[Add your link if applicable]*
+* **GitHub:** *https://github.com/Pasta-coder*
+* **LinkedIn:** *https://www.linkedin.com/in/jayant-chauhan-991499260/*
+* **Email:** *0001jayant@gmail.com*
 
 ---
 ⭐ *Always building. Always learning. Always shipping.*
