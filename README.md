@@ -1,114 +1,71 @@
-# Hey there! 👋 I'm Jayant
+# Jayant Chauhan
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=AI+Engineer+%26+Full-Stack+Developer;Building+the+Future%2C+One+Line+at+a+Time;Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
-</div>
+## 👋 About Me
+I’m a Computer Science undergraduate (Class of 2028) at Netaji Subhas University of Technology (NSUT), Delhi. I specialize in systems programming, open-source development, and building AI-driven applications. I enjoy working close to the metal with compiler internals just as much as I enjoy architecting scalable web platforms and intelligent video analysis pipelines. 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  <br>
-  <em>Currently contributing to PaceDream.com & leveling up every single day.</em>
-</div>
+Whether I'm debugging AST handling in a compiler frontend, optimizing automated video editing workflows, or building out production-ready Next.js applications, I focus on writing clean, performant, and scalable code.
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-```typescript
-const jayant = {
-  role: "Full-Stack Developer & AI Enthusiast",
-  location: "India 🇮🇳",
-  currentFocus: "Building AI-powered, futuristic web experiences",
-  dailyGoal: "Learn something new, build something better",
-  mindset: "Code is poetry, AI is the future",
-  
-  askMeAbout: [
-    "Next.js", "React", "TypeScript", "Python", 
-    "AI/ML", "Futuristic UI/UX", "Startup Life"
-  ]
-};
-```
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pasta-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasta-coder&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasta-coder&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-
-## 🎯 Current Goals
-
-- 🔭 Building next-generation web applications with AI integration
-- 🌱 Mastering advanced AI/ML techniques and LLMs
-- 👯 Contributing to open-source projects that matter
-- 🚀 Scaling my startup contributions to impact thousands
-- 📚 Sharing knowledge through blogs and community engagement
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-chauhan-991499260)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pasta-coder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0001jayant@gmail.com)
-[![Academic Email](https://img.shields.io/badge/Academic_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jayant.chauhan.ug24@nsut.ac.in)
-
-</div>
+* **Languages:** C++, Rust, Python, JavaScript / TypeScript, SQL
+* **Web & Full-Stack:** React.js, Next.js (App Router), Node.js
+* **AI & Machine Learning:** NumPy, Pandas, VideoMAE, Computer Vision
+* **Systems & Tools:** Git, Linux / Unix CLI, FFmpeg, Blockchain / Web3 basics
+* **Core Focus:** Systems Programming, Compiler Internals, Data Structures & Algorithms
 
 ---
 
-<div align="center">
+## 🌍 Open Source Contributions
 
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Pasta-coder/Pasta-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 🔹 GCC Rust (`gccrs`) 
+Active contributor to the GNU Compiler Collection's Rust frontend. Currently focused on implementing core functionalities and improving diagnostic robustness.
+* **Key Work:** Addressed internal compiler errors, resolved linter crashes, and improved AST handling and null-pointer guards.
+* **Current Focus:** Deep-diving into the `alloc` crate implementation and expanding the test suite validation. 
 
-</div>
+### 🔹 GNU Octave
+Contributor to the GNU Octave scientific programming language. 
+* **Key Work:** Configured full source build environments and managed development branch workflows for package testing and integration.
 
 ---
 
-<div align="center">
-  
-> *"The future belongs to those who believe in the beauty of their dreams."* - Eleanor Roosevelt
+## 🚀 Featured Projects
 
-**🚀 AI is not the future. You are the architect of it.**
+### 🔹 VividReel
+*An AI-powered system for automated video editing and generation.*
+* Architected an intelligent pipeline capable of processing and editing video content dynamically.
+* Leveraged FFmpeg for heavy video manipulation alongside computer vision models for content analysis and processing.
 
-<img src="https://komarev.com/ghpvc/?username=Pasta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+### 🔹 Fiscal Oversight & Cyber Safety Portal (Delhi Government Proposal)
+*Built during a recent hackathon focused on civic tech.*
+* Developed AI-driven tools designed to monitor fiscal oversight and enhance citizen cyber safety.
+* Drafted the technical architecture and proposal directly for government stakeholders.
 
-*Let's connect, collaborate, and build something extraordinary together.*
+### 🔹 Agri-Trace Odisha (SIH 2025)
+*A blockchain-based agricultural supply chain system.*
+* Designed the repository and project architecture to solve real-world traceability issues in the agricultural sector.
+* Implemented secure tracking mechanisms to ensure transparency from farm to table. 
 
-</div>
+---
+
+## 📊 Competitive Programming & Problem Solving
+* Active on **Codeforces**, consistently participating in contests to sharpen algorithmic thinking.
+* Strong foundation in advanced DSA: Trees (BST, AVL), Graph Traversal, Expression Parsing, and complex linked structures.
+
+---
+
+## 🎓 Education
+**B.Tech in Computer Science** (Expected 2028)
+Netaji Subhas University of Technology (NSUT), Delhi
+
+---
+
+## 📫 Let's Connect
+* **GitHub:** *[Add your link]*
+* **LinkedIn:** *[Add your link]*
+* **Email:** *[Add your email]*
+* **Portfolio:** *[Add your link if applicable]*
+
+---
+⭐ *Always building. Always learning. Always shipping.*
