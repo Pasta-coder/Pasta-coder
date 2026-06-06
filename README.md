@@ -61,6 +61,7 @@ Netaji Subhas University of Technology (NSUT), Delhi
 * **GitHub:** *https://github.com/Pasta-coder*
 * **LinkedIn:** *https://www.linkedin.com/in/jayant-chauhan-991499260/*
 * **Email:** *0001jayant@gmail.com*
+* **Orcid:** *https://orcid.org/0009-0004-8095-4951*
 
 ---
 ⭐ *Always building. Always learning. Always shipping.*
